@@ -4,6 +4,7 @@ from common_local.events import load_sample
 FUNCTION_NAME = "{{cookiecutter.main_function_name}}"
 setup_test_environment(FUNCTION_NAME)
 
+
 def load_event(event_name):
     return load_sample(FUNCTION_NAME, event_name)
 
