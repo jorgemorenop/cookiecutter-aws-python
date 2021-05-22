@@ -1,4 +1,4 @@
-from f_{{cookiecutter.main_function_name}}.__main__ import dummy_function
+from f_{{cookiecutter.main_function_name}}.dummy import dummy_function
 
 
 # TESTS
