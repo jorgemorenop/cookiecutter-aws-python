@@ -1,6 +1,5 @@
 {
   "project_name": "Example Project",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
-  "project_description": "This is a long description for the generated python project.",
-  "main_function_name": "function"
+  "main_function_name": "my_function"
 }
