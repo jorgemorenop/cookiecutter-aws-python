@@ -11,11 +11,11 @@ You can create a new project based on this template using `cookiecutter`:
    ```
 2. Supposing that you have git configured, run:
     ```
-   cookiecutter git+ssh://git@github.com/jemop/cookiecutter-aws-python.git
+   cookiecutter git+ssh://git@github.com/jorgemorenop/cookiecutter-aws-python.git
    ```
    or, if your git uses https instead of ssh:
    ```
-   cookiecutter https://github.com/jemop/cookiecutter-aws-python.git
+   cookiecutter https://github.com/jorgemorenop/cookiecutter-aws-python.git
    ```
 
 

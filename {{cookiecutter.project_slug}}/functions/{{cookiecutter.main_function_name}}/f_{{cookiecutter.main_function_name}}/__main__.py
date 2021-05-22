@@ -3,10 +3,7 @@ import json
 
 # Project libraries
 from . import config as cfg
-
-
-def dummy_function(a, b):
-    return a+b
+from .dummy import dummy_function
 
 
 def main(event):
@@ -14,8 +11,6 @@ def main(event):
 
     :type event: dict
     :param event: Event received by the lambda function.
-    :type context: dict or None
-    :param event: Lambda Context runtime methods and attributes
     :rtype: dict
     :return: Lambda API response
     """
