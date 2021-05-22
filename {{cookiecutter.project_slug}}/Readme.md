@@ -63,7 +63,7 @@ pip install -r requirements.txt
 In the `local/` folder, you will find additional scripts that will let you to run your code locally.
 You will find:
 - A `.env` file that contains all the environmental variables that will be used in the local execution.
-- A `run_{{cookiecutter.main_function_main}}.py` file that will allow as to run the function with simulated events
+- A `run_{{cookiecutter.main_function_name}}.py` file that will allow as to run the function with simulated events
 (located in the `events` folder on the root folder).
 - A `common_local` folder which contain useful files for the local executions.
 
