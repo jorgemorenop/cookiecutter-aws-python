@@ -1,5 +1,7 @@
 {
   "project_name": "Example Project",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
-  "main_function_name": "my_function"
+  "main_function_name": "my_function",
+  "author": "Anonymous",
+  "author_email": "user@example.com"
 }
