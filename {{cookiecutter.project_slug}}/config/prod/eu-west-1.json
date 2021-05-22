@@ -1,0 +1,8 @@
+{
+  "Parameters": {
+    "Environment": "prod"
+  },
+  "Tags": {
+    "Environment": "prod"
+  }
+}

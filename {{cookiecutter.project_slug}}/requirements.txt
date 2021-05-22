@@ -1,0 +1,2 @@
+-e functions/{{cookiecutter.main_function_name}}
+-e local

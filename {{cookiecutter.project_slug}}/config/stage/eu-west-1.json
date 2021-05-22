@@ -1,0 +1,8 @@
+{
+  "Parameters": {
+    "Environment": "stage"
+  },
+  "Tags": {
+    "Environment": "stage"
+  }
+}
